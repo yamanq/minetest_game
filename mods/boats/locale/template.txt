@@ -1,4 +1,4 @@
 # textdomain: boats
-Boat cruise mode on=
-Boat cruise mode off=
 Boat=
+Boat cruise mode off=
+Boat cruise mode on=

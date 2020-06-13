@@ -1,16 +1,16 @@
 # textdomain: wool
-White Wool=
-Grey Wool=
-Dark Grey Wool=
 Black Wool=
-Violet Wool=
 Blue Wool=
+Brown Wool=
 Cyan Wool=
 Dark Green Wool=
+Dark Grey Wool=
 Green Wool=
-Yellow Wool=
-Brown Wool=
-Orange Wool=
-Red Wool=
+Grey Wool=
 Magenta Wool=
+Orange Wool=
 Pink Wool=
+Red Wool=
+Violet Wool=
+White Wool=
+Yellow Wool=

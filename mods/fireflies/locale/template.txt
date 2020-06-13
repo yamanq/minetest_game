@@ -1,5 +1,5 @@
 # textdomain: fireflies
-Firefly=
-Hidden Firefly=
 Bug Net=
+Firefly=
 Firefly in a Bottle=
+Hidden Firefly=

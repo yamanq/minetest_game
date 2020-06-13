@@ -209,3 +209,13 @@ Save=Spara
 by @1=av @1
 Page @1 of @2=Sida @1 av @2
 "@1"="@1"
+
+Dirt with Savanna Grass=
+Savanna Grass=
+Savanna Dirt with Savanna Grass=
+Savanna Dirt=
+# OLD: "@1"="@1"
+# OLD: Dry Dirt=Torr jord
+# OLD: Dry Grass=Torrt Gräs
+# OLD: Dry Dirt with Dry Grass=Torr jord med torrt gräs
+# OLD: Dirt with Dry Grass=Jord med torrt gräs
